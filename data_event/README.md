@@ -3,5 +3,5 @@
 Shihao Zou, Chuan Guo, Xinxin Zuo, Sen Wang, Xiaoqin Hu, Shoushun Chen, Minglun Gong and Li Cheng. ICCV 2021.
 
 
-### Please data in this folder.
+### Place data in this folder.
 

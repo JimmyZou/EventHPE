@@ -15,7 +15,7 @@ which consists of
   - vibe_results_0802 (inferred poses of gray-scale images using [VIBE](https://github.com/mkocabas/VIBE))
   - pred_flow_events_256 (inferred optical flow from event frames)
   - model (train/test on a snippet of 8 frames)
-- raw events data
+- raw events data (Please contact Shihao Zou szou2@ualebrta.ca for the access.)
 
 ### Requirements
 ```
